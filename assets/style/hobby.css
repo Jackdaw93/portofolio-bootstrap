@@ -8,8 +8,6 @@
     margin-left: 70px;
 }
 
-
-
 #title,
 #nav-menu {
     font-family: "Sriracha", cursive;
@@ -45,5 +43,11 @@ img {
 
     #bicycle-p {
         order: 2;
+    }
+
+    .h3 {
+        font-family: "Sonsie One", cursive;
+        padding-top: 30px;
+        margin-left: 220px;
     }
 }
