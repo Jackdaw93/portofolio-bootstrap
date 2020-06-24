@@ -2,10 +2,10 @@
     border: 1px solid black;
 } */
 
-.h3 {
+.h4 {
     font-family: "Sonsie One", cursive;
-    padding-top: 30px;
-    margin-left: 70px;
+    margin-top: 50px;
+    margin-left: 80px;
 }
 
 #title,
@@ -26,7 +26,7 @@
     margin-right: 5px;
 }
 
-.container-md {
+.container-sm {
     margin-top: 150px;
 }
 
@@ -45,9 +45,9 @@ img {
         order: 2;
     }
 
-    .h3 {
+    .h4 {
         font-family: "Sonsie One", cursive;
-        padding-top: 30px;
-        margin-left: 220px;
+        padding-top: 20px;
+        margin-left: 15px;
     }
 }

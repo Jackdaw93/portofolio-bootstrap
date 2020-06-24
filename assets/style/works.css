@@ -39,8 +39,12 @@
 }
 
 @media (max-width: 576px) {
+
+
     .h3 {
         font-family: 'Sriracha', cursive;
-        margin-left: 250px;
+        margin-left: 89px;
+        padding-top: 20px;
+
     }
 }

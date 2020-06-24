@@ -1,5 +1,7 @@
-/* .col-md {
-  border: 1px solid black;
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@200&family=Sonsie+One&family=Sriracha&display=swap');
+
+/* .col-sm {
+    border: 1px solid black;
 } */
 #title,
 #nav-menu {
@@ -19,14 +21,6 @@
     margin-right: 5px;
 }
 
-.container-md {
-    margin-top: 150px;
-}
-
 img {
     margin-left: 10px;
-}
-
-a {
-    text-decoration: none;
 }
